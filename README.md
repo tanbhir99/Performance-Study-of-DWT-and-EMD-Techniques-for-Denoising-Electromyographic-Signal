@@ -1,5 +1,5 @@
 # Performance Study of DWT and EMD Techniques for Denoising Electromyographic Signal
-This repository contains the source code of our research to analyzes the performance of 'EMG' and 'DWT' with 'db3' and 'db4' wavelet to denoise Electromyograph Signal.
+This repository contains the source code of our research to analyzes the performance of 'EMG' and 'DWT' with 'db3' and 'db4' wavelet to denoise Electromyography (EMG) Signal.
 
 ## Citing
 If you find this paper or out research useful and incorporate in you research, please consider citing this paper.
